@@ -1,0 +1,11 @@
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/bin/Debug/netcoreapp2.2/stockDictionaries.deps.json
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/bin/Debug/netcoreapp2.2/stockDictionaries.runtimeconfig.json
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/bin/Debug/netcoreapp2.2/stockDictionaries.runtimeconfig.dev.json
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/bin/Debug/netcoreapp2.2/stockDictionaries.dll
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/bin/Debug/netcoreapp2.2/stockDictionaries.pdb
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.csprojAssemblyReference.cache
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.csproj.CoreCompileInputs.cache
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.AssemblyInfoInputs.cache
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.AssemblyInfo.cs
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.dll
+/Users/maryremo/nss/csharp/exercises/stockDictionaries/obj/Debug/netcoreapp2.2/stockDictionaries.pdb
